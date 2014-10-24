@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.4.132:8764/HandScore.ipa</string>
+					<string>http://192.168.4.157:8081/HandScore.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
