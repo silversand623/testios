@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.4.132:8764/HandScore.ipa</string>
+					<string>http://192.168.4.132:8764/SBS.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>L.HandScore</string>
+				<string>com.tellyes.SBS</string>
 				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>HandScore</string>
+				<string>sbs</string>
 			</dict>
 		</dict>
 	</array>
