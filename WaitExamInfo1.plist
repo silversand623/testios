@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.4.132:8764/WaitExamInfo.ipa</string>
+					<string>http://111.30.23.46:8787/WaitExamInfo/1/WaitExamInfo.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
