@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.107:8080/HandScore.ipa</string>
+					<string>http://111.30.23.46:8787/WaitExamInfo/2/WaitExamInfo.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>L.HandScore</string>
+				<string>com.tellyes.WaitExamInfo</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>HandScore</string>
+				<string>WaitExamInfo</string>
 			</dict>
 		</dict>
 	</array>
