@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://111.30.23.46:8787/HandScore/2/HandScore.ipa</string>
+					<string>https://111.30.23.46:8787/HandScore/2/HandScore.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://111.30.23.46:8787/handscore_icon.png</string>
+					<string>https://111.30.23.46:8787/handscore_icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://111.30.23.46:8787/handscore_icon.png</string>
+					<string>https://111.30.23.46:8787/handscore_icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
